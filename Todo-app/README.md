@@ -1,7 +1,7 @@
 # Todo App using React + Vite
 A task management application that allows users to create and delete tasks. The app features an intuitive interface for managing to-do items effectively.
 
-![Todo App](https://github.com/user-attachments/assets/a8ae759f-8122-40ee-aec3-1b11e36d5f59)
+![Todo App](https://github.com/user-attachments/assets/4cbff552-4435-4910-8708-70447d3be597)
 
 <div align="center">
 <h3>Todo App built with React & Tailwind CSS</h5>
