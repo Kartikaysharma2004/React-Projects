@@ -1,13 +1,13 @@
-# News App using React + Vite + Bootstrap
-A task management application that allows users to create and delete tasks. The app features an intuitive interface for managing to-do items effectively.
-
-
-![News App](https://github.com/user-attachments/assets/013f1cec-d4d6-467e-90f5-cb63eec038b2)
+# News App using React + Bootstrap
+A news application that delivers the latest headlines and updates. The app leverages an API to fetch and display real-time news articles, providing users with an intuitive and engaging interface to stay informed about current events.
 
 <div align="center">
-<h3>News App built with React & Bootstrap</h5>
+    <img src="https://github.com/user-attachments/assets/013f1cec-d4d6-467e-90f5-cb63eec038b2" alt="News App"/>
 </div>
 
+<div align="center">
+<h3>News App built with React & Bootstrap</h3>
+</div>
 
 ## Tech Stack 🛠️
 
