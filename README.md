@@ -17,14 +17,20 @@ Welcome to my React Projects repository! This repository contains a collection o
 ### 2. Login Signup Page
 **Description:** A user authentication system with a single page for login and signup. The pages include form validation and user input handling for a smooth registration and login experience.
 
-
-
 **Features:**
 - User registration and login forms
 - Input validation and error handling
 - Responsive design
 
 **Demo:** [Live Demo](https://loginsignuphub.netlify.app/)
+
+### 3. News App
+**Description:** A dynamic news application that provides up-to-date news articles and headlines. Using a news API, the app fetches real-time data to deliver the latest news in an easy-to-navigate and visually appealing interface.
+
+**Features:**
+- Real-time news updates via API integration
+- Categorized news sections for easy navigation
+- Responsive design for optimal viewing on all devices
 
 ## Tech Stack 🛠️
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
