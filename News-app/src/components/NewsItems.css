@@ -1,0 +1,35 @@
+body{
+  font-family: sans-serif;
+}
+.news-grid {
+  display: flex;
+  flex-wrap: wrap; /* Allow cards to wrap onto the next line */
+  gap: 1rem; /* Space between the cards */
+  justify-content: center; /* Center the cards horizontally */
+}
+
+.card {
+  flex: 1 1 300px; /* Cards will be at least 300px wide, and will grow to fill the container */
+  margin: 0.5rem;
+  display: flex; /* Make card a flex container */
+  flex-direction: column; /* Align elements vertically */
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.card-body {
+  flex-grow: 1; /* Make the card body fill available space */
+  padding: 1rem;
+}
+.card-title{
+  font-weight: bold;
+}
+.card-text{
+  font-size: 14px;
+}
+.card-title, .card-text {
+  margin-bottom: 1rem;
+}
+
+.btn {
+  align-self: flex-end; /* Keep the button at the bottom */
+}
