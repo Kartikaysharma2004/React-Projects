@@ -32,6 +32,15 @@ Welcome to my React Projects repository! This repository contains a collection o
 - Categorized news sections for easy navigation
 - Responsive design for optimal viewing on all devices
 
+ ### 4. Youtube Replica
+**Description:** A YouTube replica interface designed to replicate the core features of the popular video-sharing platform.
+
+**Features:**
+- Input validation and error handling
+- Responsive design
+
+**Demo:** [Live Demo](https://youttubereplica.netlify.app/)
+
 ## Tech Stack 🛠️
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=black" alt="React" />
@@ -41,6 +50,9 @@ Welcome to my React Projects repository! This repository contains a collection o
   </a>
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </a>
+  <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/material_ui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white&color=0081CB" alt="Material UI" />
   </a>
 
 ## Getting Started
