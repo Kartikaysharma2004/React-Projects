@@ -54,6 +54,9 @@ Welcome to my React Projects repository! This repository contains a collection o
   <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/material_ui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white&color=0081CB" alt="Material UI" />
   </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  </a>
 
 ## Getting Started
 
