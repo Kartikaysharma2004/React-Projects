@@ -41,13 +41,25 @@ Welcome to my React Projects repository! This repository contains a collection o
 
 **Demo:** [Live Demo](https://youttubereplica.netlify.app/)
 
+ ### 5. Redux Store
+**Description:** 
+A robust eCommerce platform built with React, Redux, and Tailwind CSS, featuring Fake Store API integration, dynamic cart functionality, and a responsive, visually engaging design.
+
+**Features:**
+- Seamlessly add and remove items from the cart with real-time updates to the content and total price.
+- Optimized for all devices with a responsive design powered by Tailwind CSS.
+
+**Demo:** [Live Demo](https://reduxstoreapp.netlify.app/)
+
 ## Tech Stack 🛠️
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=black" alt="React" />
   </a>
-   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/react_router-black.svg?style=for-the-badge&logo=react-router&logoColor=white&color=red" alt="React Router" />
-  </a>
+   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+</a>
+<a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/react%20router-CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </a>
