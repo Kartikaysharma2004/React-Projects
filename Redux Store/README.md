@@ -1,8 +1,7 @@
 # Redux Store using React, Redux & Tailwind CSS  
 A powerful eCommerce platform built using React, Redux, and Tailwind CSS, integrated with the Fake Store API. This project showcases robust state management with Redux, enabling users to add items to the cart, remove them, and experience a responsive and visually engaging design.
 
-![redux-store](https://github.com/user-attachments/assets/72230dfa-100b-4547-b768-002ad624df0b)
-
+![redux-store](https://github.com/user-attachments/assets/a3aec606-12d9-41c7-a58a-239160295b50)
 
 <div align="center">
 <h3>Redux Store: Built with React, Redux & Tailwind CSS</h3>
